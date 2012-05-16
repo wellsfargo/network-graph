@@ -1,0 +1,20 @@
+
+#container {
+    background : #fff;
+    border : solid 1px #ccc;
+    margin : auto;
+    padding : 0;
+    height : 99%;
+    width : 99%;
+}
+
+#network {
+    background : #333;
+    border : solid 1px #ccc;
+    font-size : 14px;
+    padding : 0;
+    margin : auto;
+    position : relative;
+    height : 99%;
+    width : 99%;
+}
