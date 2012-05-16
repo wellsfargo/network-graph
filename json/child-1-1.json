@@ -1,33 +1,39 @@
 {
-    "title" : "Child 1 of 1",
-    "lineColour" : "#fff",
-    "children" : [{
-                    "uid" : "child-1-1-1",
-                    "title" : "A child",
-                    "text" : "this is some text",
-                    "lineColour" : "#fff"
-                }, {
-                    "uid" : "child-1-1-2",
-                    "title" : "A second child",
-                    "lineColour" : "#fff"
-                }, {
-                    "uid" : "child-1-1-3",
-                    "title" : "A third child",
-                    "lineColour" : "#fff"
-                }, {
-                    "uid" : "child-1-x",
-                    "title" : "I'm different",
-                    "lineColour" : "#fff",
-                    "type" : "theme"
-                },
-                {
-                    "uid" : "child-2-x",
-                    "title" : "Child 2",
-                    "text" : "this is some text too",
-                    "lineColour" : "#fff"
-                }, {
-                    "uid" : "child-3-x",
-                    "title" : "Child 3",
-                    "lineColour" : "#fff"
-                }]
+    "children": [
+        {
+            "lineColour": "#fff",
+            "text": "this is some text",
+            "title": "A child",
+            "uid": "child-1-1-1"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "A second child",
+            "uid": "child-1-1-2"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "A third child",
+            "uid": "child-1-1-3"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "I'm different",
+            "type": "theme",
+            "uid": "child-1-x"
+        },
+        {
+            "lineColour": "#fff",
+            "text": "this is some text too",
+            "title": "Child 2",
+            "uid": "child-2-x"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "Child 3",
+            "uid": "child-3-x"
+        }
+    ],
+    "lineColour": "#fff",
+    "title": "Child 1 of 1"
 }

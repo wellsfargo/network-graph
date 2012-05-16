@@ -1,14 +1,16 @@
 {
-    "title" : "Child 3",
-    "lineColour" : "#fff",
-    "children" : [{
-                    "uid" : "child-3-1",
-                    "title" : "Child 1 of 2",
-                    "lineColour" : "#fff"
-                },
-                {
-                    "uid" : "child-3-2",
-                    "title" : "Child 2 of 2",
-                    "lineColour" : "#fff"
-                }]
+    "children": [
+        {
+            "lineColour": "#fff",
+            "title": "Child 1 of 2",
+            "uid": "child-3-1"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "Child 2 of 2",
+            "uid": "child-3-2"
+        }
+    ],
+    "lineColour": "#fff",
+    "title": "Child 3"
 }

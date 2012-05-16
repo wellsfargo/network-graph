@@ -1,21 +1,24 @@
 {
-    "title" : "First Title",
-    "lineColour" : "#fff",
-    "text" : "this is some text",
-    "children" : [{
-                    "uid" : "child-1",
-                    "title" : "I'm different",
-                    "lineColour" : "#fff",
-                    "type" : "theme"
-                },
-                {
-                    "uid" : "child-2",
-                    "title" : "Child 2",
-                    "text" : "this is some text too",
-                    "lineColour" : "#fff"
-                }, {
-                    "uid" : "child-3",
-                    "title" : "Child 3",
-                    "lineColour" : "#fff"
-                }]
+    "children": [
+        {
+            "lineColour": "#fff",
+            "title": "I'm different",
+            "type": "theme",
+            "uid": "child-1"
+        },
+        {
+            "lineColour": "#fff",
+            "text": "this is some text too",
+            "title": "Child 2",
+            "uid": "child-2"
+        },
+        {
+            "lineColour": "#fff",
+            "title": "Child 3",
+            "uid": "child-3"
+        }
+    ],
+    "lineColour": "#fff",
+    "text": "this is some text",
+    "title": "First Title"
 }
